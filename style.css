@@ -144,6 +144,7 @@ https: //css-tricks.com/using-css-to-set-text-inside-a-circle/
 
 .footer {
     border: 1px solid black;
+    background-color: black;
     width: 100%;
     height: 50px;
 }
